@@ -1,5 +1,5 @@
 import React from 'react'
-import NotificationBell from '../Afterlogin/Notificationbell'
+import NotificationBell from '../Afterlogin/NotificationBell'
 import { Button, Flex } from '@chakra-ui/react'
 import { useNavigate } from 'react-router-dom';
 
