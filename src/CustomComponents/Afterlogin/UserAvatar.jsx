@@ -7,7 +7,7 @@ import { MdDarkMode, MdOutlineFileDownload } from "react-icons/md";
 
 import { CiLight, CiWallet } from "react-icons/ci";
 
-import NotificationBell from "./Notificationbell";
+import NotificationBell from "./NotificationBell";
 import { useNavigate } from "react-router-dom";
 import axios from "axios";
 import { useAuth } from "../../Context/AuthContext";

@@ -32,7 +32,7 @@ import { setUserId } from 'firebase/analytics';
 import SendBnb from '../AddressTransaction/SendBnb';
 import Sendeth from '../AddressTransaction/Sendeth';
 import { IoMdEye, IoMdEyeOff } from 'react-icons/io';
-import SendUsdt from '../AddressTransaction/SendUSDT';
+import SendUsdt from '../AddressTransaction/SendUsdt';
 import SendUsdtNew from '../AddressTransaction/SendUsdtNew';
 import useSendUsdtNew from '../AddressTransaction/SendUsdtNew';
 import { useCryptoOption } from '../Store/cryptoOption';
